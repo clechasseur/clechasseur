@@ -1,8 +1,8 @@
 ### Charles Lechasseur (he/him)
 
-Hello! I'm a Software Developer and Architect from Québec, Canada. ~~Fun~~ facts about me:
+Hello! 👋 I'm a Software Developer and Architect from Québec, Canada. ~~Fun~~ facts about me:
 
-- I've been programming since I was a kind, and professionally for over 20 years
+- I've been programming since I was a kid, and professionally for over 20 years
 - I've worked in many different programming languages, like Delphi Pascal, C++, Java, JavaScript, Ruby, etc.
 - I currently work at [Petal]([url](https://github.com/petalmd)) as a Principal Developer
 - I am autistic, sometimes wear a huge fiery red beard and understand the difference between correlation and causation
@@ -12,7 +12,7 @@ Hello! I'm a Software Developer and Architect from Québec, Canada. ~~Fun~~ fact
 
 You can reach me at shiftingbeard@gmx.com.
 
-### Some interesting projects I've worked on
+### Some interesting projects I've worked on ⚙️
 
 - [Path Copy Copy](https://github.com/clechasseur/pathcopycopy): A Windows shell extension to copy the path of files/folders in various formats (see [official site](https://pathcopycopy.github.io/)); my longest-running open source project, now mostly dormant
 - [rs-cargo](https://github.com/clechasseur/rs-cargo) / [rs-clippy-check](https://github.com/clechasseur/rs-clippy-check) / [rs-fmt-check](https://github.com/clechasseur/rs-fmt-check): Rust-related GitHub actions; forked and updated from the [actions-rs GitHub actions](https://github.com/actions-rs)
