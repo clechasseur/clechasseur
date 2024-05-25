@@ -10,7 +10,7 @@ Hello! 👋 I'm a Software Developer and Architect from Québec, Canada. ~~Fun~~
 - I love [Advent of Code](https://adventofcode.com) and I try to [complete the challenges every year](https://github.com/clechasseur?tab=repositories&q=adventofcode&type=&language=&sort=)
 - I live in the woods with my husband, two Golden Retrievers, one cat and a flock of chickens (named after programming languages 🤓)
 
-You can reach me at shiftingbeard@gmx.com.
+You can reach me at shiftingbeard@outlook.com.
 
 ### Some interesting projects I've worked on ⚙️
 
