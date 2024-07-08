@@ -17,5 +17,5 @@ You can reach me at shiftingbeard@outlook.com.
 - [Path Copy Copy](https://github.com/clechasseur/pathcopycopy): A Windows shell extension to copy the path of files/folders in various formats (see [official site](https://pathcopycopy.github.io/)); my longest-running open source project, now mostly dormant
 - [rs-cargo](https://github.com/clechasseur/rs-cargo) / [rs-clippy-check](https://github.com/clechasseur/rs-clippy-check) / [rs-fmt-check](https://github.com/clechasseur/rs-fmt-check): Rust-related GitHub actions; forked and updated from the [actions-rs GitHub actions](https://github.com/actions-rs)
 - [linq](https://github.com/clechasseur/linq): A C++ library mimicking .NET's LINQ operators
-- [auxiliaire](https://github.com/clechasseur/auxiliaire): Helper utility for the [Exercism.org](https://exercism.org) website; current in progress
+- [auxiliaire](https://github.com/clechasseur/auxiliaire): Helper utility for the [Exercism.org](https://exercism.org) website
 - [Wail](https://github.com/clechasseur/wail): A blast from the past: my very first C++ project from way before Git was even a thing!
