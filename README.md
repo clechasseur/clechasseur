@@ -18,3 +18,7 @@ You can reach me at shiftingbeard@outlook.com.
 - [linq](https://github.com/clechasseur/linq): A C++ library mimicking .NET's LINQ operators
 - [auxiliaire](https://github.com/clechasseur/auxiliaire): Helper utility for the [Exercism.org](https://exercism.org) website
 - [Wail](https://github.com/clechasseur/wail): A blast from the past: my very first C++ project from way before Git was even a thing!
+
+### Project mirrors
+
+I've started mirroring some of my projects at [git.gay](https://git.gay). See my profile: https://git.gay/clechasseur
