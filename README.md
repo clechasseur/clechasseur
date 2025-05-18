@@ -3,7 +3,7 @@
 Hello! 👋 I'm a Software Developer and Architect from Québec, Canada. ~~Fun~~ facts about me:
 
 - I've been programming since I was a kid, and professionally for over 20 years
-- I've worked in many different programming languages, like Delphi Pascal, C++, Java, JavaScript, Ruby, etc.
+- I've worked in many different programming languages, like Delphi Pascal, C++, Java, JavaScript, Python, Ruby, Rust, etc.
 - I am autistic, sometimes wear a huge fiery red beard and understand the difference between correlation and causation
 - I am a fan of [Exercism.org](https://exercism.org), a free site to learn new programming languages; I sometimes act as a mentor ([profile](https://exercism.org/profiles/clechasseur))
 - I love [Advent of Code](https://adventofcode.com) and I try to [complete the challenges every year](https://github.com/clechasseur?tab=repositories&q=adventofcode&type=&language=&sort=)
